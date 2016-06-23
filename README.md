@@ -1,4 +1,4 @@
-# blue yonder script
+# Blue Yonder task
 ### Requirements ###
 
 In order to execute the script, it is necessary to install Requests library:
